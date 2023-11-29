@@ -1,1 +1,19 @@
 # Maven-Fuzzy-Factory-SQL-Project
+
+#### Maven Fuzzy Factory – Company Overview:
+Maven Fuzzy Factory is fictitious and forward-thinking online retailer that has embarked on its e-commerce Journey. It is driven by a desire to bring novel and exciting products to the market, leveraging the power of e-commerce to reach a wide audience.
+The company places immense value on understanding and fulfilling the needs of its customers, aiming to provide an unparalleled online shopping experience.
+Maven Fuzzy Factory's online platform is crafted for ease of use, ensuring a seamless and enjoyable shopping experience for all users. Utilizing cutting-edge digital marketing strategies, the company is poised to make a significant impact in online retail spaces, engaging with customers through various digital channels.
+
+#### Project Presentation:
+The Project involves 2 presentations / parts.
+1.	8 months after the successful running of the business, there is a meeting in which CEO has to present company performance metrics to the board.
+Role: I play the role of an e-commerce database analyst and is tasked with providing the story of company’s growth using trended performance data, quantify the revenue impacts of some of the wins and analyze the current performance and use that data available to assess the opportunities.
+
+2.	Maven Fuzzy Factory has been in the arena for 3 years now and has generated enough growth to raise a much larger round of venture capital funding.
+Role: I play the role of an e-commerce database analyst and is tasked with analyzing and providing information which will help CEO craft a compelling story to the investors about a data driven company that has been producing rapid growth.
+
+#### Tools Used: 
+SQL
+
+Powerpoint

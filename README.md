@@ -6,11 +6,15 @@ The company places immense value on understanding and fulfilling the needs of it
 Maven Fuzzy Factory's online platform is crafted for ease of use, ensuring a seamless and enjoyable shopping experience for all users. Utilizing cutting-edge digital marketing strategies, the company is poised to make a significant impact in online retail spaces, engaging with customers through various digital channels.
 
 #### Project Presentation:
-The Project involves 2 presentations / parts.
+The Project involves data for 2 presentations.
 #### Part 1 & Role:
 8 months after the successful running of the business, there is a meeting in which CEO has to present company performance metrics to the board.
 
 I play the role of an e-commerce database analyst and is tasked with providing the story of company’s growth using trended performance data, quantify the revenue impacts of some of the wins and analyze the current performance and use that data available to assess the opportunities.
+
+#### [Part 1](Data for Board Meeting Presentation.md) Insights:
+
+
 
 #### Part 2 & Role:
 Maven Fuzzy Factory has been in the arena for 3 years now and has generated enough growth to raise a much larger round of venture capital funding.
@@ -20,5 +24,3 @@ I play the role of an e-commerce database analyst and is tasked with analyzing a
 #### Tools Used: 
 MySQL Workbench 8.0
 
-#### Insights:
-The Insights and output are mentioned along with the data in the respective files.

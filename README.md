@@ -1,7 +1,7 @@
 # Maven-Fuzzy-Factory-SQL-Project
 
 #### Maven Fuzzy Factory – Company Overview:
-Maven Fuzzy Factory is fictitious and forward-thinking online retailer that has embarked on its e-commerce Journey. It is driven by a desire to bring novel and exciting products to the market, leveraging the power of e-commerce to reach a wide audience.
+Maven Fuzzy Factory is a fictitious and forward-thinking online retailer that has embarked on its e-commerce Journey. It is driven by a desire to bring novel and exciting products to the market, leveraging the power of e-commerce to reach a wide audience.
 The company places immense value on understanding and fulfilling the needs of its customers, aiming to provide an unparalleled online shopping experience.
 Maven Fuzzy Factory's online platform is crafted for ease of use, ensuring a seamless and enjoyable shopping experience for all users. Utilizing cutting-edge digital marketing strategies, the company is poised to make a significant impact in online retail spaces, engaging with customers through various digital channels.
 

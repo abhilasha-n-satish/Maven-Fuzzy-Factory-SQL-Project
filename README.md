@@ -20,4 +20,5 @@ I play the role of an e-commerce database analyst and is tasked with analyzing a
 #### Tools Used: 
 MySQL Workbench 8.0
 
-Powerpoint
+#### Insights:
+The Insights and output are mentioned along with the data in the respective files.

@@ -1,4 +1,14 @@
 # Data for Board Meeting Presentation
 
-## Introduction 
-![Introduction Situation](C:\Users\satis\OneDrive\Dokumente\maven courses\SQL\Advanced mysql for Data Analysis\midcourse_project_query_results\images\Situation.png)
+## Introduction :
+
+![Introduction Situation](images/Situation.png)
+
+## Database Schema: 
+
+We will be using the following tables for analysis.
+
+![DBSchema](images/dbschema.png)
+
+### Table Creation:
+Click here for the code.

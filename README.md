@@ -8,7 +8,7 @@ Maven Fuzzy Factory's online platform is crafted for ease of use, ensuring a sea
 #### Project Presentation:
 The Project involves data for 2 presentations.
   1. [Data for Board Meeting Presentation](Data%20for%20Board%20Meeting%20Presentation.md) - Click [here](Story_Data_for_Board_Meeting_Presentation.md) for Insights!!
-  2. [Data for Investors Meet](Data%20for%20Investors%20Meet.md) - Click here for Insights!!
+  2. [Data for Investors Meet](Data%20for%20Investors%20Meet.md) - Click [here](Story_Data_for_Investors_Meet.md) for Insights!!
 
 #### Tools Used: 
 MySQL Workbench 8.0

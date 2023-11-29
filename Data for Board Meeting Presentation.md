@@ -182,7 +182,7 @@ SELECT
 
 FROM nonbrand_test_sessions_landing_pages
 LEFT JOIN orders 
-	ON orders.website_session_id = nonbrand_test_sessions_w_landing_pages.website_session_id;
+	ON orders.website_session_id = nonbrand_test_sessions_landing_pages.website_session_id;
 
 -- Finding CVR
 SELECT

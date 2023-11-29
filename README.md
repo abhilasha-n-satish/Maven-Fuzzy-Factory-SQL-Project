@@ -7,11 +7,15 @@ Maven Fuzzy Factory's online platform is crafted for ease of use, ensuring a sea
 
 #### Project Presentation:
 The Project involves 2 presentations / parts.
-1.	8 months after the successful running of the business, there is a meeting in which CEO has to present company performance metrics to the board.
-Role: I play the role of an e-commerce database analyst and is tasked with providing the story of company’s growth using trended performance data, quantify the revenue impacts of some of the wins and analyze the current performance and use that data available to assess the opportunities.
+#### Part 1 & Role:
+8 months after the successful running of the business, there is a meeting in which CEO has to present company performance metrics to the board.
 
-2.	Maven Fuzzy Factory has been in the arena for 3 years now and has generated enough growth to raise a much larger round of venture capital funding.
-Role: I play the role of an e-commerce database analyst and is tasked with analyzing and providing information which will help CEO craft a compelling story to the investors about a data driven company that has been producing rapid growth.
+I play the role of an e-commerce database analyst and is tasked with providing the story of company’s growth using trended performance data, quantify the revenue impacts of some of the wins and analyze the current performance and use that data available to assess the opportunities.
+
+#### Part 2 & Role:
+Maven Fuzzy Factory has been in the arena for 3 years now and has generated enough growth to raise a much larger round of venture capital funding.
+
+I play the role of an e-commerce database analyst and is tasked with analyzing and providing information which will help CEO craft a compelling story to the investors about a data driven company that has been producing rapid growth.
 
 #### Tools Used: 
 SQL

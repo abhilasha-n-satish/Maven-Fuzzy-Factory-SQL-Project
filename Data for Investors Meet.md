@@ -223,5 +223,3 @@ FROM primary_product
 ) AS primary_w_cross_sell
 GROUP BY primary_product_id;
 ```
-
-#### 8. In addition to telling investors about what we’ve already achieved, let’s show them that we still have plenty of gas in the tank. Based on all the analysis you’ve done, could you share some recommendations and opportunities for us going forward? No right or wrong answer here – I’d just like to hear your perspective!

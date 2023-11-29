@@ -8,12 +8,7 @@ Maven Fuzzy Factory's online platform is crafted for ease of use, ensuring a sea
 #### Project Presentation:
 The Project involves data for 2 presentations.
   1. [Data for Board Meeting Presentation](Data%20for%20Board%20Meeting%20Presentation.md) - Click [here](Story_Data_for_Board_Meeting_Presentation.md) for Insights!!
-  2. Data for Investors Meet.
-
-#### Part 2 & Role:
-Maven Fuzzy Factory has been in the arena for 3 years now and has generated enough growth to raise a much larger round of venture capital funding.
-
-I play the role of an e-commerce database analyst and is tasked with analyzing and providing information which will help CEO craft a compelling story to the investors about a data driven company that has been producing rapid growth.
+  2. [Data for Investors Meet](Data%20for%20Investors%20Meet.md) - Click here for Insights!!
 
 #### Tools Used: 
 MySQL Workbench 8.0

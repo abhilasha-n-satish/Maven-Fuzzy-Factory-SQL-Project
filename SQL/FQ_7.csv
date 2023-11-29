@@ -1,0 +1,5 @@
+primary_product_id,total_orders,cross_sell_p1,cross_sell_p2,cross_sell_p3,cross_sell_p4,cross_sell_p1_rate,cross_sell_p2_rate,cross_sell_p3_rate,cross_sell_p4_rate
+1,4467,0,238,553,933,0.0000,0.0533,0.1238,0.2089
+2,1277,25,0,40,260,0.0196,0.0000,0.0313,0.2036
+3,929,84,40,0,208,0.0904,0.0431,0.0000,0.2239
+4,581,16,9,22,0,0.0275,0.0155,0.0379,0.0000

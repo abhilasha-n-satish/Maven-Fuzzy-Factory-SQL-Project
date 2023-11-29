@@ -18,6 +18,6 @@ Maven Fuzzy Factory has been in the arena for 3 years now and has generated enou
 I play the role of an e-commerce database analyst and is tasked with analyzing and providing information which will help CEO craft a compelling story to the investors about a data driven company that has been producing rapid growth.
 
 #### Tools Used: 
-SQL
+MySQL Workbench 8.0
 
 Powerpoint
